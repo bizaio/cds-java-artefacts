@@ -1,0 +1,23 @@
+{
+    "accountId": "3F7C0D90-05CE-4225-8211-3B4F16AEAEB9",
+    "transactionId": "8w7BqEDvKVhSIx4ybMucasC5AorfOP3iZoUZv7fzEgci4o7HVp0mXeOycV4UKbGO",
+    "isDetailAvailable": false,
+    "type": "TRANSFER_INCOMING",
+    "status": "POSTED",
+    "description": "PRINCIPAL PAID ON 0000000 TERM DEPOSIT 336632",
+    "postingDateTime": "2019-09-11T00:00:00Z",
+    "valueDateTime": "0001-01-05T00:00:00Z",
+    "amount": "25000.00",
+    "currency": "AUD",
+    "reference": "0000000",
+    "extendedData": {
+        "payer": "John Doe",
+        "payee": "Alice Wonderlander",
+        "extensionUType": "x2p101Payload",
+        "x2p101Payload": {
+            "extendedDescription": "From John to Alice",
+            "endToEndId": "12345678987654321"
+        },
+        "service": "X2P1.01"
+    }
+}
